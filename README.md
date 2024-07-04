@@ -1,9 +1,3 @@
 # test
-# test
-# test
-# test
-# test
-# test
-# test
-# test
-# test
+sourcetreeの操作の練習
+
