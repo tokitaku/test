@@ -1,1 +1,2 @@
 branch_bを作成しました。
+branch_bを作成しました。
