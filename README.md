@@ -1,2 +1,3 @@
 # test
-branch_cよりも先に進んだ
+branch_dよりも先に進んだ
+branch_dよりも先に進んだ
